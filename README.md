@@ -17,6 +17,7 @@ CSS
 JavaScript
 
 **How to Use**
+
 Clone the repository to your local machine.
 Open the index.html file in your web browser.
 Enter the name of a city in the search bar and press Enter or click the search button.
@@ -25,10 +26,12 @@ Toggle between Celsius and Fahrenheit temperature units by clicking on the tempe
 If the UV index for the specified location is high, an alert will be displayed.
 
 **Credits**
+
 Weather data is fetched from the OpenWeatherMap API.
 Icons provided by Font Awesome.
 Fonts from Google Fonts.
 The toggle button used in this project is sourced from W3Schools.
 
 **License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
