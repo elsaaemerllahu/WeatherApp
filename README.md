@@ -23,11 +23,11 @@ Alternatively, click the "Current Location" button to fetch weather information 
 Toggle between Celsius and Fahrenheit temperature units by clicking on the temperature display.
 If the UV index for the specified location is high, an alert will be displayed.
 
-# Credits
+**Credits**
 Weather data is fetched from the OpenWeatherMap API.
 Icons provided by Font Awesome.
 Fonts from Google Fonts.
 The toggle button used in this project is sourced from W3Schools.
 
-# License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details.
