@@ -6,6 +6,7 @@ The Weather App is a simple web application designed to provide users with curre
 It fetches real-time weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
 **Features**
+
 Search by City: Users can search for weather information by entering the name of a city.
 Current Location: Users can also get weather updates based on their current location using geolocation.
 Temperature Units: The app supports toggling between Celsius and Fahrenheit temperature units.
